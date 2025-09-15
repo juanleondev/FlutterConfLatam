@@ -15,7 +15,7 @@
 #### Grabación de Charlas
 
 **Cobertura**: Todas las charlas principales
-**Calidad**: 4K para edición, 1080p para distribución
+**Calidad**: `4K` para edición, `1080p` para distribución
 **Audio**: Separado y sincronizado
 **Duración**: Completa de cada charla
 **Formato**: MP4, MOV, AVI
@@ -24,7 +24,7 @@
 
 **Cobertura**: Sala principal
 **Plataforma**: YouTube o Twitch
-**Calidad**: 1080p HD
+**Calidad**: `1080p` HD
 **Interacción**: Chat en vivo
 **Archivo**: Disponible post-evento
 
@@ -321,17 +321,17 @@
 
 **Resolución**:
 
-- Grabación: 4K (3840x2160)
-- Streaming: 1080p (1920x1080)
-- Distribución: 1080p
-- Móvil: 720p
+- Grabación: `4K` (3840x2160)
+- Streaming: `1080p` (1920x1080)
+- Distribución: `1080p`
+- Móvil: `720p`
 
 **Frame Rate**:
 
-- Grabación: 30fps
-- Streaming: 30fps
-- Distribución: 30fps
-- Móvil: 30fps
+- Grabación: `30fps`
+- Streaming: `30fps`
+- Distribución: `30fps`
+- Móvil: `30fps`
 
 **Bitrate**:
 
@@ -344,17 +344,17 @@
 
 **Calidad**:
 
-- Frecuencia: 48kHz
+- Frecuencia: `48kHz`
 - Bit depth: 24-bit
 - Formato: WAV, MP3
 - Compresión: Lossless
 
 **Niveles**:
 
-- Input: -12dB a -6dB
-- Output: -6dB a -3dB
-- Headroom: 3dB mínimo
-- Distorsión: <0.1%
+- Input: `-12dB` a `-6dB`
+- Output: `-6dB` a `-3dB`
+- Headroom: `3dB` mínimo
+- Distorsión: &lt;0.1%
 
 ### Estándares de Iluminación
 
@@ -367,9 +367,9 @@
 
 **Temperatura**:
 
-- Color: 3200K-5600K
+- Color: `3200K`-`5600K`
 - CRI: >90
-- Consistencia: ±200K
+- Consistencia: `±200K`
 - Control: Manual/Automático
 
 ## Personal Técnico

@@ -1,4 +1,4 @@
-# 📋 Información General del Evento
+# Información General del Evento
 
 ## Datos Básicos
 
@@ -83,9 +83,9 @@ Crear el evento de Flutter más importante de Latinoamérica, reuniendo a la com
 
 ## Ubicación y Venue
 
-### Ciudad Sede 2024
+### Ciudad Sede 2025
 
-**Arequipa, Perú**
+**Cancún, México**
 
 ### Criterios de Selección de Sede
 
@@ -104,21 +104,21 @@ Crear el evento de Flutter más importante de Latinoamérica, reuniendo a la com
 
 ## Fechas Importantes
 
-### Timeline 2024
+### Timeline 2025
 
 - **Q1**: Planificación inicial y búsqueda de venue
 - **Q2**: Lanzamiento de CFP y búsqueda de sponsors
 - **Q3**: Confirmación de speakers y marketing intensivo
-- **Q4**: Evento (octubre) y post-evento
+- **Q4**: Evento (septiembre) y post-evento
 
 ### Fechas Clave
 
-- **CFP Launch**: [Fecha]
-- **CFP Deadline**: [Fecha]
-- **Speaker Selection**: [Fecha]
-- **Early Bird Tickets**: [Fecha]
-- **Regular Tickets**: [Fecha]
-- **Event**: 29-30 octubre 2024
+- **CFP Launch**: [Fecha por definir]
+- **CFP Deadline**: [Fecha por definir]
+- **Speaker Selection**: [Fecha por definir]
+- **Early Bird Tickets**: [Fecha por definir]
+- **Regular Tickets**: [Fecha por definir]
+- **Event**: 22-23 septiembre 2025
 
 ## Presupuesto Estimado
 
@@ -146,13 +146,13 @@ Crear el evento de Flutter más importante de Latinoamérica, reuniendo a la com
 - Alcance en redes sociales
 - Videos reproducidos post-evento
 
-### Metas 2024
+### Metas 2025
 
-- 600+ asistentes
+- 400+ asistentes
 - 90%+ satisfacción
-- 12+ sponsors principales
-- 50K+ impresiones en redes sociales
-- 10K+ visualizaciones de videos
+- 10-15 sponsors principales
+- `50K+` impresiones en redes sociales
+- `10K+` visualizaciones de videos
 
 ---
 

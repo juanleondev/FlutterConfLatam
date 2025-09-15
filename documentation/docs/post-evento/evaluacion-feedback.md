@@ -276,7 +276,7 @@
 
 ### Métricas Secundarias
 
-**Tiempo de respuesta**: <24 horas
+**Tiempo de respuesta**: &lt;24 horas
 **Tasa de respuesta**: >30%
 **Calidad de feedback**: >80% útil
 **Implementación de mejoras**: >70%

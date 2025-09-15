@@ -1,4 +1,4 @@
-# 📚 Historial de Ediciones
+# Historial de Ediciones
 
 ## FlutterConfLatam 2024
 

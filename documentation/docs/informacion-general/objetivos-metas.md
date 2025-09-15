@@ -1,4 +1,4 @@
-# 🎯 Objetivos y Metas
+# Objetivos y Metas
 
 ## Objetivos Estratégicos
 

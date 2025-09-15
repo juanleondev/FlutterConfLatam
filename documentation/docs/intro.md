@@ -1,47 +1,76 @@
+# FlutterConfLatam 2025
+
+Bienvenido a la documentación oficial de **FlutterConfLatam 2025**, la conferencia de Flutter más importante de Latinoamérica.
+
+## Sobre el Evento
+
+**FlutterConfLatam** es una conferencia de dos días que reúne a la comunidad de desarrolladores Flutter de toda Latinoamérica. Nuestro objetivo es crear el evento de Flutter más importante de la región, facilitando el intercambio de conocimiento, networking y el fortalecimiento de la comunidad.
+
+### Información Básica
+
+- **Fechas**: 22 y 23 de septiembre de 2025
+- **Ciudad sede**: Cancún, México
+- **Formato**: Conferencia presencial con charlas, workshops y networking
+- **Capacidad**: 400 asistentes
+- **Speakers**: 20-30 speakers
+- **Sponsors**: 10-15 sponsors principales
+
+### Contacto
+
+- **Email**: [flutterconflatam@gmail.com](mailto:flutterconflatam@gmail.com)
+- **Website**: [https://flutterconflatam.dev/](https://flutterconflatam.dev/)
+- **Redes sociales**: [@FlutterConfLatam](https://twitter.com/FlutterConfLatam)
+
+## Documentación
+
+Esta documentación está organizada en las siguientes secciones:
+
+### 📋 Información General
+
+- Información del evento
+- Objetivos y metas
+- Historial de ediciones
+
+### 🎯 Ejes de Organización
+
+- Agenda y experiencia
+- Finanzas y aspectos legales
+- Operación y staff
+- Speakers
+- Sponsors
+- Tickets y marketing
+- Venue y espacios
+
+### 🚚 Logística y Proveedores
+
+- Audiovisuales
+- Catering
+- Diseño y branding
+- Hoteles
+
+### 📢 Comunicación
+
+- Comunicación interna
+- Estrategia de comunicación
+- Redes sociales
+- Templates de email
+
+### 📊 Post-Evento
+
+- Evaluación y feedback
+- Métricas y reportes
+- Seguimiento
+
+### 📝 Templates
+
+- Checklists
+- Formularios
+
+### ❓ FAQ
+
+- Preguntas frecuentes
+- Troubleshooting
+
 ---
-sidebar_position: 1
----
 
-# Tutorial Intro
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+_Esta documentación se actualiza continuamente para reflejar el estado actual de la planificación del evento._

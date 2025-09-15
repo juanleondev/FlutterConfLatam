@@ -16,7 +16,7 @@
 
 **Beneficios**:
 
-- Stand premium (6x3m)
+- Stand premium (`6x3m`)
 - Logo en pantalla principal
 - 2 charlas patrocinadas
 - Branding en materiales
@@ -28,7 +28,7 @@
 
 **Beneficios**:
 
-- Stand estándar (3x3m)
+- Stand estándar (`3x3m`)
 - Logo en pantalla secundaria
 - 1 charla patrocinada
 - Branding en swag
